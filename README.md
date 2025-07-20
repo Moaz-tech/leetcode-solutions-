@@ -1,2 +1,2 @@
 # leetcode-solutions-
-These are the solutions of leet code.
+These are the solutions of leet code. I have further added the Easy / Medium / Hard. Those that I haave solved along the way on LeetCode.
